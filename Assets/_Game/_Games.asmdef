@@ -1,3 +1,4 @@
 {
-	"name": "NewAssembly"
+	"name": "NewAssembly",
+	"references":[ "GUID:cbff09a9ac3d5444095cc7af6e6a5a6a" ]
 }
